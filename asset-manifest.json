@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.28392d40.css",
+    "main.js": "/portfolio/static/js/main.508dbfcb.js",
+    "static/media/mondrian2.jpeg": "/portfolio/static/media/mondrian2.509e6073819b1790e710.jpeg",
+    "static/media/microsoft.jpg": "/portfolio/static/media/microsoft.3087f43051028594cc80.jpg",
+    "static/media/ibm.jpg": "/portfolio/static/media/ibm.61c9c73f9ed608df3363.jpg",
+    "static/media/mondrian5.jpg": "/portfolio/static/media/mondrian5.cf6ff01062e1815cdd49.jpg",
+    "static/media/logo-white.png": "/portfolio/static/media/logo-white.7a61cfd250292911f1ea.png",
+    "static/media/tatatcgs.jpg": "/portfolio/static/media/tatatcgs.3e2ee9ed453b361f7279.jpg",
+    "static/media/mondrian3.jpg": "/portfolio/static/media/mondrian3.a962dfd2577bf4de47ec.jpg",
+    "static/media/mondrian6.webp": "/portfolio/static/media/mondrian6.b5cb338afb7dd6d00cc7.webp",
+    "static/media/student.jpg": "/portfolio/static/media/student.7fbba6d81422d235e477.jpg",
+    "static/media/adobe.jpeg": "/portfolio/static/media/adobe.4d713aaa750b37b2f180.jpeg",
+    "static/media/programmer.png": "/portfolio/static/media/programmer.387188d6c808403b4e68.png",
+    "static/media/uiux.webp": "/portfolio/static/media/uiux.0aef358e9723cbc3957d.webp",
+    "index.html": "/portfolio/index.html",
+    "main.28392d40.css.map": "/portfolio/static/css/main.28392d40.css.map",
+    "main.508dbfcb.js.map": "/portfolio/static/js/main.508dbfcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28392d40.css",
+    "static/js/main.508dbfcb.js"
+  ]
+}
